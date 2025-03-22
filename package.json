@@ -16,5 +16,8 @@
     "url": "https://github.com/Abioduncecil/MyNexcent/issues"
   },
   "homepage": "https://github.com/Abioduncecil/MyNexcent#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
 }
